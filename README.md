@@ -4,7 +4,7 @@ A modern web application for secure QR code encryption and decryption using AES 
 
 ## Features
 
-- **🔐 AES Encryption**: Military-grade AES encryption for secure message protection
+- **🔐 AES Encryption**: AES encryption for secure message protection
 - **📱 QR Code Generation**: Convert encrypted messages into scannable QR codes
 - **📷 QR Code Scanning**: Built-in camera and file upload for QR code decryption
 - **🔑 Secret Key Management**: Generate and manage cryptographic keys
@@ -121,8 +121,4 @@ src/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## Acknowledgments
 
-- Built with modern web technologies for maximum security and performance
-- Inspired by the need for secure, offline-capable communication tools
-- Special thanks to the open-source libraries that make this project possible
